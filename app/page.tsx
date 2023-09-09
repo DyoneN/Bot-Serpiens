@@ -1,12 +1,14 @@
 import Header from "@/components/Header"
+import Board from "@/components/Board"
+
 
 export default function Home() {
   return (
     <main>
       <Header />
 
-      {/** Board */}
-     <h1>Bot Serpiens IA 3.5</h1>
+      <Board />
+
     </main>
   )
 }

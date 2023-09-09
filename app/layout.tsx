@@ -1,7 +1,6 @@
 import './globals.css'
 import type { Metadata } from 'next'
 
-
 export const metadata: Metadata = {
   title: 'Bot Serpiens',
   description: 'O primeiro Bot que integra tudo1',
